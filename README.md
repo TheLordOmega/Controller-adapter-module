@@ -9,7 +9,7 @@ Key features:
 ## PCB
 
 
-![[Pasted image 20261001225337.png]]
+![PCB](./images/Pasted image 20261001225337.png)
 ## Schematic
 
 ![[Pasted image 20261001225125.png]]
