@@ -8,7 +8,6 @@ Key features:
 * UART link to the console over the J1 connector
 ## PCB
 
-
 ![PCB](./images/Schematic.png)
 ## Schematic
 
